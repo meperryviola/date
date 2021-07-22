@@ -10,7 +10,7 @@ Stats:
 <li>Woman (she/her)</li>
 <li>Average height for women worldwide (5’4”)</li>
 <li>Studying econ and mathematics with the hopes of becoming a PhD economist</li>
-<li>If I wasn’t doing that, I would probably study rhetoric and lit crit</li>
+<li>If I wasn’t doing that, I would probably study rhetoric and technical communication.</li>
 <li>Has played viola for 9ish years</li>
 <li>Graduating in May ‘22!</li>
 <li>Democratic socialist</li>
@@ -19,9 +19,10 @@ Stats:
 </ul>
 Likes:
 <ul>
-<li>Walking long distances, biking (however I did not grow up in a place with hills, so I’m still acclimating here)</li>
-<li>Cooking and baking! I worked in an Israeli restaurant for a while so I make some mean falafel. Oh also I’m vegetarian. Favorite thing to make rn happens to be samosas but I also just eat a lot of peanut butter right out the jar</li>
-<li>Reading and writing (particularly poetry). I compete in literary competitions occasionally but mostly I just write for me. I have very male-manipulator taste in literature but at least I’m self-aware, you know?</li>
+<li>Walking long distances, biking, running short distances. I like to be active, but won't pretend to be particularly atheletic.</li>
+<li>Cooking and baking. I've been working in kitchens intermittently for the past 3 years (one of which being a Shawarma restaurant) so I am rather skilled and enjoy studying different cultural cuisines.
+Also I’m vegetarian! My favorite thing to make right now happens to be samosas but I also just eat a lot of peanut butter right out of the jar.</li>
+<li>Reading and writing (particularly poetry). I compete in literary competitions occasionally but mostly I just write for me. I have a very quintessential male-manipulator taste in literature but at least I’m self-aware, you know?</li>
 <li>Cryptograms and cyphers lmao. I just really like solving them and I’ve been very invested in watching the process of solving the Zodiac killer’s cyphers. I think quarantine is getting to me bc I’ve picked up chess again too and I started playing the crossword.</li>
 </ul>
 <br>
